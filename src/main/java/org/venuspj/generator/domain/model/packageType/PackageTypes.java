@@ -1,6 +1,6 @@
 package org.venuspj.generator.domain.model.packageType;
 
-import org.venuspj.generator.domain.model.diffination.methodType.MethodType;
+import org.venuspj.generator.domain.model.definition.methodType.MethodType;
 
 import java.util.Collection;
 import java.util.List;

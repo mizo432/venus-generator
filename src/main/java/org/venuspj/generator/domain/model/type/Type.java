@@ -1,7 +1,7 @@
 package org.venuspj.generator.domain.model.type;
 
-import org.venuspj.generator.domain.model.diffination.fieldType.FieldTypes;
-import org.venuspj.generator.domain.model.diffination.methodType.MethodTypes;
+import org.venuspj.generator.domain.model.definition.fieldType.FieldTypes;
+import org.venuspj.generator.domain.model.definition.methodType.MethodTypes;
 
 public interface Type {
 

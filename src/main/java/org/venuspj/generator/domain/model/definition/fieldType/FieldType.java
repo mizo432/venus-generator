@@ -1,4 +1,4 @@
-package org.venuspj.generator.domain.model.diffination.fieldType;
+package org.venuspj.generator.domain.model.definition.fieldType;
 
 import org.venuspj.generator.domain.model.type.AbstractType;
 

@@ -1,7 +1,7 @@
 package org.venuspj.generator.domain.model.type;
 
-import org.venuspj.generator.domain.model.diffination.fieldType.FieldTypes;
-import org.venuspj.generator.domain.model.diffination.methodType.MethodTypes;
+import org.venuspj.generator.domain.model.definition.fieldType.FieldTypes;
+import org.venuspj.generator.domain.model.definition.methodType.MethodTypes;
 import org.venuspj.util.builder.ObjectBuilder;
 
 import static org.venuspj.util.objects2.Objects2.nonNull;
