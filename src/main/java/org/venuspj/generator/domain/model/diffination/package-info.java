@@ -1,0 +1,1 @@
+package org.venuspj.generator.domain.model.diffination;
