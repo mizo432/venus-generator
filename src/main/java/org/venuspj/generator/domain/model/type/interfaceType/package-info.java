@@ -1,1 +1,0 @@
-package org.venuspj.generator.domain.model.type.interfaceType;

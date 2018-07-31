@@ -1,14 +1,14 @@
-package org.venuspj.generator.domain.model.type;
+package org.venuspj.generator.domain.model.definition.type;
 
 import org.venuspj.generator.domain.fundamentals.name.NameValue;
 
 public class TypeName extends NameValue {
 
-    public TypeName(){
+    public TypeName() {
         super();
     }
 
-    protected TypeName(String value){
+    protected TypeName(String value) {
         super(value);
 
     }

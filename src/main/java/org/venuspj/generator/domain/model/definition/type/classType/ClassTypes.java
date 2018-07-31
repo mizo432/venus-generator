@@ -1,4 +1,4 @@
-package org.venuspj.generator.domain.model.type.classType;
+package org.venuspj.generator.domain.model.definition.type.classType;
 
 import java.util.Collection;
 import java.util.List;

@@ -1,10 +1,10 @@
-package org.venuspj.generator.domain.model.type.classType;
+package org.venuspj.generator.domain.model.definition.type.classType;
 
 import org.venuspj.generator.domain.model.definition.fieldType.FieldTypes;
 import org.venuspj.generator.domain.model.definition.methodType.MethodTypes;
+import org.venuspj.generator.domain.model.definition.type.AbstractType;
+import org.venuspj.generator.domain.model.definition.type.TypeName;
 import org.venuspj.generator.domain.model.packageType.PackageType;
-import org.venuspj.generator.domain.model.type.AbstractType;
-import org.venuspj.generator.domain.model.type.TypeName;
 
 import static org.venuspj.util.objects2.Objects2.nonNull;
 

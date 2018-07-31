@@ -1,7 +1,7 @@
-package org.venuspj.generator.domain.model.type.classType;
+package org.venuspj.generator.domain.model.definition.type.classType;
 
 import org.junit.Test;
-import org.venuspj.generator.domain.model.type.TypeName;
+import org.venuspj.generator.domain.model.definition.type.TypeName;
 
 import static org.venuspj.util.objects2.Objects2.toStringHelper;
 

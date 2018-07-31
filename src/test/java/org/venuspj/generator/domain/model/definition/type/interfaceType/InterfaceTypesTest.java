@@ -1,4 +1,4 @@
-package org.venuspj.generator.domain.model.type.interfaceType;
+package org.venuspj.generator.domain.model.definition.type.interfaceType;
 
 import org.junit.Test;
 

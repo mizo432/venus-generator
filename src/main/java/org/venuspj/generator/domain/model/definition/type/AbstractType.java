@@ -1,4 +1,4 @@
-package org.venuspj.generator.domain.model.type;
+package org.venuspj.generator.domain.model.definition.type;
 
 import org.venuspj.generator.domain.model.definition.fieldType.FieldTypes;
 import org.venuspj.generator.domain.model.definition.methodType.MethodTypes;
